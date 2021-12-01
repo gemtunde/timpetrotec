@@ -1,0 +1,234 @@
+{
+  "Header": {
+    "title": "Timpetrotec",
+    "paragraph": "Vast experience in technical support services to the Oil and Gas sector, offers a wide range of products and services aimed at improving safety, quality and reliability in the Marine, Energy and all major industries."
+  },
+  "About": {
+    "paragraph": "Over the years, we have served numerous clients ranging from Marine Companies, Oil and Gas Servicing Companies, Construction Companies, and Drilling Companies. At TIMPETROTEC LIMITED we conduct our operations through the efficient and optimal use of materials and energy with minimal waste and damage to the environment. We take HSE issues personal. All incidents can be prevented and we continuously strive for zero accidents to personnel, materials, and the environment.",
+    "Why": [
+      "Marine and Engineering services",
+      "Installation, Maintenance of Offshore and Onshore Equipment services;",
+      "Non Destructive Testing",
+      "Electrical Installation and Instrumentation services;"
+    ],
+    "Why2": [
+      "Procurement services",
+      "Equipment Leasing",
+      "Rope Access Inspection",
+      "Offshore and Onshore Labour Supply"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-small.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-small.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/6.jpg",
+      "smallImage": "img/portfolio/6.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/7.jpg",
+      "smallImage": "img/portfolio/7.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/8.jpg",
+      "smallImage": "img/portfolio/8.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/9.jpg",
+      "smallImage": "img/portfolio/9.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/5.jpg",
+      "smallImage": "img/portfolio/5.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/4.jpg",
+      "smallImage": "img/portfolio/4.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/3.jpg",
+      "smallImage": "img/portfolio/3.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "smallImage": "img/service/hse.jpg",
+      "name": "Procurement Services",
+      "text": "Our procurements covers the area of HVAC, Energy Valves, and Actuators. we represent BELIMO HOLDING The company develops, produces and markets actuator solutions for controlling heating, ventilation and air conditioning. Hoist, Ropes. We have the ability to anticipate what the client needs and proffer solutions to them."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "smallImage": "img/portfolio/equip.png",
+      "name": "Equipment Leasing services;",
+      "text": "TIMPETROTEC LTD Is the largest in offshore containers, Baskets and Equipment leasing. Our leasing services range from short term, one-way trips to long term and hire purchase facilities. In addition to standard dry cargo units, our fleet of containers includes many specials – palletizes, side door units, open tops, flat racks, bulkers and ISO tanks. Non ISO containers built specifically for storage use are also provided. In many locations we can arrange delivery and collection."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "smallImage": "img/portfolio/ndt.png",
+      "name": "Non Destructive Testing and lifting equipment inspection services",
+      "text": "We offer a complete range of non-destructive testing (NDT), visual inspection and materials sampling inspection capabilities. Our technicians are qualified to international standards and are supported by the expertise of our inspection department and associated affiliates."
+    },
+    {
+      "icon": "fa fa-language",
+      "smallImage": "img/portfolio/install.png",
+      "name": "Installation and Maintenance of Offshore and Onshore Equipment",
+      "text": "TIMPETROTEC LIMITED is an indigenous Company with a vast experience in Installation and Maintenance which covers the areas of Sewage Treatment plants, Reverse Osmosis Desalination, Oil water separation and Purification units.  We implement strategic asset management and development programmes that improve availability and efficiency and streamline our client’s overall operating economy.Aside from providing advice on strategic maintenance management, we provide installations, maintenance solutions and equipment for the offshore industry "
+    },
+    {
+      "icon": "fa fa-plane",
+      "smallImage": "img/portfolio/9.jpg",
+      "name": "Rope Access Inspection Services",
+      "text": "We are specialist in rope access, a safe, reliable and effective technique to reach inaccessible areas. Rope access is more versatile than gondolas or cranes, more efficient than scaffolding and can eliminate unnecessary downtime. The versatility of rope access services permits flexible and comprehensive service on the inspection and structural maintenance programs. Since, rope systems are unobtrusive, it benefits clients who wish to retain the visual integrity of the structure during inspection or maintenance works."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "smallImage": "img/portfolio/02-small.jpg",
+      "name": "Onshore and Offshore labour supply",
+      "text": "We supply Onshore and Offshore labor to compliment the services we offer on a standalone basis. We are able to supply multi skilled labor worldwide and specialize in fast turnaround (24 hours or less) and are able to source and mobilize labor, from a single person to a complete crew ready for work for either long or short term contracts. With our experienced and qualified certification, hard working, skilled and professional manpower on hand in fabrication and construction field or drilling crews, you can be confident that our manpower on hand will make your work successful and on time."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Covering an area of bollards, winches, hatches, drums and reels, pulleys and other machinery parts.",
+      "name": "Deck Equipment"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Covering an area of valve and pump systems, engine and compressor systems, piping and pneumatic systems.",
+      "name": "Equipment systems"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Covering an area of gangways, staircases, service platforms, hand rails, manhole covers, pipes and flanges, and tanks.",
+      "name": "Equipment"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "Covering the areas of; shafts valves, sheaves, manifolds, pistons, rings, gearboxes, crankshafts, wheels, gears and other machinery parts.",
+      "name": "Machinery Part"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "Covering an area of; prefabricated steel constructions; like helipads, piping and deck sections.",
+      "name": "Steel Structures/ Fabrication"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "Covering an area of Gas monitors, safety wears, fire alarms and hose equipment, cabinets and special tools.",
+      "name": "Safety Equipment and wears"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/pre.png",
+      "name": "Installation, Pre-commissioning & Decommissioning",
+      "job1": "Flooding, Cleaning and Gauging",
+      "job2": "Pneumatic Testing",
+      "job3": "Nitrogen Purging and Testing",
+      "job4": " Hot Oil Flushing",
+      "job5": "Offshore Riser Flushing "
+    },
+    {
+      "img": "img/team/prod.png",
+      "name": "Production Support",
+      "job1": "Mud Transfer Pumps",
+      "job2": "Transfer Pump",
+      "job3": "Pump Hiring",
+      "job4": "Compressor Maintenance ",
+      "job5": "Electric Motor Fluid Transfer Pumps "
+    },
+    {
+      "img": "img/team/valve.jpg",
+      "name": "Valve Operation",
+      "job1": "Belimo Valves sales and repair representative",
+      "job2": "Bolt Tensioning and Torqueing",
+      "job3": "Onsite Valve Leak Detection",
+      "job4": "Valve Actuator Maintenance",
+      "job5": "Valve Installation & Maintenance / Repair"
+    },
+    {
+      "img": "img/team/gas.png",
+      "name": "Calibration and Re-certification",
+      "job1": " Control System Calibration",
+      "job2": "Pressure Transmitter Calibration",
+      "job3": "Control Panel Calibration",
+      "job4": "Storage Tank & Vessel Calibration",
+      "job5": "Gas detectors sales, repair and calibration"
+    }
+  ],
+  "Contact": {
+    "address": "Plot 6 Gideon Close, Off Peter Odili Road, Port Harcourt Rivers State. Nigeria ",
+    "phone": "Tel: +234-8038848248,  +234-8057499260.",
+    "email": "info@timpetrotec.com",
+    "facebook": "https://www.facebook.com/timpetrotec",
+    "twitter": "https://www.twitter.com/timpetrotec",
+    "youtube": "https://www.linkedin.com/company/timpetrotec-limited/about/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "smallImage": "img/service/hse.jpg",
+      "title": "Procurement Services",
+      "text": "Our procurements covers the area of HVAC, Energy Valves, and Actuator, Hoist, Ropes. "
+     },
+    {
+      "icon": "fa fa-bullhorn",
+      "smallImage": "img/service/equip.png",
+      "title": "Equipment Leasing",
+      "text": " Our leasing services range from short term, one-way trips to long term and hire purchase facilities..."
+    },
+    {
+      "icon": "fa fa-group",
+      "smallImage": "img/service/ndt.png",
+      "title": "NDT Services",
+      "text": "We offer a complete range of NDT, visual inspection and materials sampling inspection capabilities."
+    },
+    {
+      "icon": "fa fa-magic",
+      "smallImage": "img/service/install.png",
+      "title": "Installation and Maintenance",
+      "text": "Sewage Treatment plants, Reverse Osmosis Desalination, Oil water separation."
+    },
+    {
+      "icon": "fa fa-comments-o",
+      "smallImage": "img/service/marine.png",
+      "title": "Marine Engineering",
+      "text": "Our services covers the areas of Bollard-pull Test, Vessel inspections, Barge inspections, Platform inspections,"
+     },
+    {
+      "icon": "fa fa-bullhorn",
+      "smallImage": "img/service/electrical.png",
+      "title": "Instrumentation",
+      "text": "Covering an area of distributor blocks, electrical panels, power transmission units, control panels, switchboards, and remote control units."
+    },
+    {
+      "icon": "fa fa-group",
+      "smallImage": "img/service/rope.png",
+      "title": "Rope Inspection",
+      "text": "TIMPETROTEC LTD is a specialist in rope access, a safe, reliable and effective technique to reach inaccessible areas."
+    },
+    {
+      "icon": "fa fa-magic",
+      "smallImage": "img/service/labour.png",
+      "title": "Labour Supply",
+      "text": "We pride ourselves on using time served tradesmen with experience, knowledge, and of high standards."
+    }
+  ]
+}
